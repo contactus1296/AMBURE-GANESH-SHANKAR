@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AMBURE GANESH SHANKAR - Learning Platform</title>
+<title>AMBURE GANESH SHANKAR - Games Platform</title>
 
 <style>
 body {
@@ -55,7 +55,7 @@ footer {
 
 <header>
     <h1>AMBURE GANESH SHANKAR</h1>
-    <p>Environmental Learning Platform</p>
+    <p>Educational Learning Platform</p>
 </header>
 
 <nav>
@@ -70,7 +70,7 @@ footer {
 <section id="home">
     <div class="card">
         <h2>About Us</h2>
-        <p>AMBURE GANESH SHANKAR provides environmental learning courses and digital educational content for students.</p>
+        <p>AMBURE GANESH SHANKAR provides Educationals Games for students.</p>
     </div>
 </section>
 
@@ -78,14 +78,14 @@ footer {
     <div class="card">
         <h2>Our Courses</h2>
 
-        <h3>🌱 Basic Environmental Course</h3>
-        <p>Learn fundamentals of environment and sustainability.</p>
+        <h3>🌱 Games</h3>
+        <p>Learn Educational Games.</p>
         <p><strong>Price: ₹199</strong></p>
         <button>Buy Now</button>
 
         <h3>🌍 Advanced Eco Learning</h3>
-        <p>Advanced course on climate and smart systems.</p>
-        <p><strong>Price: ₹499</strong></p>
+        <p>Advanced Games on Educations.</p>
+        <p><strong>Price: ₹299</strong></p>
         <button>Buy Now</button>
 
     </div>
@@ -96,8 +96,8 @@ footer {
         <h2>Contact Us</h2>
         <p>Name: AMBURE GANESH SHANKAR</p>
         <p>Email: contactus1296@gmail.com</p>
-        <p>Phone: 9876543210</p>
-        <p>Address: Maharashtra, India</p>
+        <p>Phone: 9623302813</p>
+        <p>Address: At. Post Khalwat Limgaon, Tq. Wadwani, Dist Beed. 431122 Maharashtra, India</p>
     </div>
 </section>
 
